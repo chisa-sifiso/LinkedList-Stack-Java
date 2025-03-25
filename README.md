@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>README - LinkedList Stack in Java</title>
-</head>
+
 <body>
     <h1>LinkedList-Stack-Java</h1>
     <p>A simple implementation of a Stack using a Linked List in Java.</p>
