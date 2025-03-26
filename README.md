@@ -43,7 +43,7 @@
    
    <h2>📌 Author</h2>
     <p>Created by <strong></strong> - <a href="https://.com/yourusername">GitHub Profile</a></p>
-  
+   <h4>Developed by Sfiso Vinjwa</h4>
    <h2>📜 License</h2>
     <p>This project is licensed under the MIT License.</p>
 </body>
